@@ -25,6 +25,5 @@ Planned projects include:
 Stay tuned for daily updates as new UIs are added!
 
 **Note:** The repository is currently being set up. New projects will be added soon.
-__
-Abdur Rahman 
+
 abiabdullahinshaalloh@gmail.com
